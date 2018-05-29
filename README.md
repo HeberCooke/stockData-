@@ -1,7 +1,7 @@
 # stockData-
 windows format for color
 By Heber Cooke 5/27/18
-REMEMBER to :get the file at yahoo/finance   pick your favorite stock,go to historical data , download file. Make sure file is in cpp.main folder
+REMEMBER to :get the file at yahoo/finance   pick your favorite stock,go to historical data , download file. Make sure file is in cpp.main folder. Delete the first line in the .txt file to remove  data layout . So only data is in the .txt file!
 Name the file after the stock! Change CONST FILE_SIZE to correct settings for file size ! Change the CONST string F to 
 "file name.txt"!
 
